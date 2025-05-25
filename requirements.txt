@@ -1,0 +1,7 @@
+streamlit
+requests
+markdown
+python-frontmatter
+python-slugify
+langdetect
+langcodes
